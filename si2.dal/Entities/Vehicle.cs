@@ -14,5 +14,6 @@ namespace si2.dal.Entities
         public string Name { get; set; }
         [Required]
         public string Tag { get; set; }
+        //comment 2
     }
 }
