@@ -14,6 +14,11 @@ namespace si2.dal.Entities
         public string Name { get; set; }
         [Required]
         public string Tag { get; set; }
+
+
+        //Add comment 1 - Tania
+
         //comment 2
+
     }
 }
